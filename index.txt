@@ -1,0 +1,6 @@
+git config
+git remote
+git init
+git status
+git add
+git 

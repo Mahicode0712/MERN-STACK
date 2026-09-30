@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;  
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+ul{list-style: none;}
+a{text-decoration: none;}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rebeccapurple;
+    height: 80px;
+    padding: 0 4rem;
+}
+header a, footer a{color:aliceblue;}
+footer{
+    text-align: center;
+    padding: 1 rem 0;
+}
